@@ -2,8 +2,6 @@
 
 This project is a dual-axis solar tracking system designed to optimize solar panel alignment with the sun. The system uses **photoresistors (LDRs)** to detect the direction of maximum light intensity and **servo motors** to adjust the panel’s orientation accordingly. A **GY-521 accelerometer-gyroscope module** monitors the tilt angle in real time for added feedback.
 
-Developed as part of the **ENGPHYS 3L04 Design Project** at McMaster University.
-
 ---
 
 ## 🔧 Features
